@@ -2,8 +2,8 @@
 
     header("Content-type: text/html; charset=utf-8");
     date_default_timezone_set("PRC");
-
-    $data = array();
+echo '';
+   $data = array();
     $data['status'] = 1;
     if ($data['status'] == 1) {
 
